@@ -1,3 +1,3 @@
-const ytscrap = require('./src/index.js');
+const ytmp3 = require('./src/index.js');
 
-module.exports = ytscrap
+module.exports = ytmp3
